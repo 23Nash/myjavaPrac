@@ -1,7 +1,6 @@
 package prac4;
 
 import java.util.*;
-import java.math.*;
 
 public class prac4_2 {
 
