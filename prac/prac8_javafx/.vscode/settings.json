@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Sanyu Tuscano\\Desktop\\myjava\\prac\\prac8_javafx\\lib\\javafx.web.jar",
+        "c:\\Users\\Sanyu Tuscano\\Desktop\\myjava\\prac\\prac8_javafx\\lib\\javafx.media.jar",
+        "c:\\Users\\Sanyu Tuscano\\Desktop\\myjava\\prac\\prac8_javafx\\lib\\javafx-swt.jar",
+        "c:\\Users\\Sanyu Tuscano\\Desktop\\myjava\\prac\\prac8_javafx\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Sanyu Tuscano\\Desktop\\myjava\\prac\\prac8_javafx\\lib\\javafx.base.jar",
+        "c:\\Users\\Sanyu Tuscano\\Desktop\\myjava\\prac\\prac8_javafx\\lib\\javafx.swing.jar",
+        "c:\\Users\\Sanyu Tuscano\\Desktop\\myjava\\prac\\prac8_javafx\\lib\\javafx.controls.jar",
+        "c:\\Users\\Sanyu Tuscano\\Desktop\\myjava\\prac\\prac8_javafx\\lib\\javafx.fxml.jar"
+    ]
+}
